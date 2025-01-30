@@ -15,8 +15,9 @@ que lo puedo hacer mejor que cualquier otro 😉.
 - **Herramientas**: Git, Linux, Google Collab.  
 
 ## 🌱 Proyectos Destacados  
-- **[Aplicación Web/Móvil](#)**: Elaboración de aplicación táctil para estudiantes que accedan por primera vez a la Universidad de Granada.
-- **[Deep RL para Redes Autónomas](#)**: Trabajo en progreso para mi TFG.  
+- **[Aplicación Web/Móvil](#)**: Elaboración de aplicación táctil para estudiantes que accedan por primera vez a la Universidad de Granada. *(En proceso de subida)*
+- **[Deep Reinforcement Learning en Redes Autónomas](#)**: Trabajo en progreso para mi TFG. *(En proceso de subida)*
+- **[Segmentación de Zonas Infectadas En Hojas](#)**: Proyecto final realizado en la asignatura **Visión Por Computador**.
 
 ## 📫 Conéctate conmigo  
 - **Correo Electrónico**: [guilleramblado@gmail.com](mailto:tu.email@ejemplo.com)  

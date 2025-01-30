@@ -6,8 +6,7 @@ Hola! Soy Guillermo Ramblado Carrasco, estudiante del doble grado de **Ingenier�
 Además de poseer conocimientos en el ámbito del **machine learning** o **deep learning**, 
 también me he adentrado en el **desarrollo de aplicaciones móviles y desarrollo web**, incluido el despliegue usando **AWS**.
 
-Los diferentes respositorios que podrás encontrar en mi cuenta de GitHub se corresponden con prácticas que he ido realizando a lo largo de mi docencia. Tal y como podrás ver, no tengo ningún problema en adaptarme a nuevos campos, por lo que no dudes de mi falta de experiencia laboral. Te aseguro
-que lo puedo hacer mejor que cualquier otro 😉.
+Los diferentes respositorios que podrás encontrar en mi cuenta de GitHub se corresponden con prácticas que he ido realizando a lo largo de mi docencia. Tal y como podrás ver, no tengo ningún problema en adaptarme a nuevos campos, por lo que no dudes de mi falta de experiencia laboral😉.
 
 ## 🛠️ Tecnologías y Herramientas  
 - **Lenguajes**: Python, C++, Java, LaTeX, HTML, CSS. 
@@ -21,7 +20,7 @@ que lo puedo hacer mejor que cualquier otro 😉.
 
 ## 📫 Conéctate conmigo  
 - **Correo Electrónico**: [guilleramblado@gmail.com](mailto:tu.email@ejemplo.com)  
-- **LinkedIn**: [linkedin.com/in/guillermoramblado](https://linkedin.com/in/tuusuario)  
+- **LinkedIn**: [linkedin.com/in/guillermoramblado](https://discord.com/channels/@me/589391115996626945/1334578463889162352)  
 - **GitHub**: [github.com/guillermoramblado](https://github.com/tuusuario)
 
 Gracias por visitar mi perfil. ¡Espero que encuentres algo interesante aquí! 😊  

@@ -20,7 +20,7 @@ Los diferentes respositorios que podrás encontrar en mi cuenta de GitHub se cor
 
 ## 📫 Conéctate conmigo  
 - **Correo Electrónico**: [guilleramblado@gmail.com](mailto:tu.email@ejemplo.com)  
-- **LinkedIn**: [linkedin.com/in/guillermoramblado](https://discord.com/channels/@me/589391115996626945/1334578463889162352)  
+- **LinkedIn**: [linkedin.com/in/guillermoramblado](https://www.linkedin.com/in/guillermo-ramblado-50b186236/)  
 - **GitHub**: [github.com/guillermoramblado](https://github.com/tuusuario)
 
 Gracias por visitar mi perfil. ¡Espero que encuentres algo interesante aquí! 😊  
